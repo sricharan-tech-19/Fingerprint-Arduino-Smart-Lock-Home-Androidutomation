@@ -1,4 +1,4 @@
-#sri-tech-19-bt-fingerprint-unlock
+//sri-tech-19-bt-fingerprint-unlock
 
 String readString;
 #define relay1 3    //Connect relay1 to pin D3
